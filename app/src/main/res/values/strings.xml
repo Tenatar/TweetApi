@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TweetApi</string>
+    <string name="app_name" translatable="false">TweetApi</string>
     <string name="following_hint">Following</string>
     <string name="followers_hint">Followers</string>
 
@@ -7,4 +7,5 @@
     <string name="search_hint">search</string>
     <string name="not_enough_symbols_msg">Please enter at least one symbol</string>
     <string name="loading_error_msg">Error during loading info</string>
+    <string name="fa_map_marker" translatable="false">\uf041</string>
 </resources>
